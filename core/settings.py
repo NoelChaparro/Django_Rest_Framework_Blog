@@ -44,6 +44,7 @@ DJANGO_APPS = [
 
 PROJECT_APPS = [
     # Add your project-specific apps here
+    'apps.blog'
 ]
 THIRD_PARTY_APPS = [
     # Add third-party apps here
